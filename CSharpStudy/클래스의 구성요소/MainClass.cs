@@ -12,10 +12,18 @@ namespace 클래스의_구성요소
             classinfo.Method(1);
             #endregion
 
-            #region 4.1.5_InstanceAndStaticMember
+            #region 4.1.5.1_InstanceAndStaticMember
             InstanceAndStaticMember instanceAndStaticMember = new InstanceAndStaticMember();
             instanceAndStaticMember.RunMethod();
             #endregion
+
+            #region 4.1.5.3_StaticMethodAndConstructor
+            // 객체생성 (new) 없이 사용 가능한 메소드
+            StaticMethodAndConstructor.StaticMethod();
+            #endregion
+
+
+
         }
     }
 }
