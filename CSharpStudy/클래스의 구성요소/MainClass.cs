@@ -2,7 +2,7 @@
 
 namespace 클래스의_구성요소 
 {
-    
+
     public class MainClass
     {
         static void Main(string[] args)
@@ -22,7 +22,9 @@ namespace 클래스의_구성요소
             StaticMethodAndConstructor.StaticMethod();
             #endregion
 
-
+            #region 4.1.6_Namespace
+            UseNamespace.CallMethod();
+            #endregion
 
         }
     }
