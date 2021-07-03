@@ -14,7 +14,14 @@ namespace 객체지향문법_4_2_캡슐화
             UseAccessModifierClaasses.RunMethod();
             #endregion
 
-            #region 4.2.3 InformationHidingAndProperty
+            #region 4.2.2 InformationHiding
+            InformationHiding informationHiding = new InformationHiding();
+            informationHiding.RunMethod();
+            informationHiding.SetData(5);
+            Console.WriteLine("GetData() : " + informationHiding.GetData() + "\n");
+            #endregion
+
+            #region 4.2.3 Property
             #endregion
         }
     }
