@@ -25,7 +25,7 @@ namespace 객체지향문법
 
         private double GetSize(double radius) => radius * radius * pi;        
 
-        public void PrintSize() => Console.WriteLine("Size : " + GetSize(10));
+        public void PrintSize() => Console.WriteLine("Size : " + GetSize(10) + "\n");
         
     }
 }

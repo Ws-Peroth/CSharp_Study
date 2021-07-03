@@ -29,6 +29,12 @@ namespace 객체지향문법
             #region 4.2_Encapsulation.cs
             Encapsulation.RunMethod();
             #endregion
+
+            #region 4.2.1 AccessModifier
+            UseAccessModifierClaasses.RunMethod();
+            #endregion
+
+
         }
     }
 }
