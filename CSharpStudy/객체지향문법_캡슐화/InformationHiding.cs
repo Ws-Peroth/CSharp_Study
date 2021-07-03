@@ -23,7 +23,7 @@ namespace 객체지향문법_4_2_캡슐화
         public void RunMethod()
         {
             Console.WriteLine("[private int data]");
-            Console.WriteLine("은닉시킨 필드 data에 대해 GetData, SetData 만으로 접근하도록 함\n");
+            Console.WriteLine("은닉시킨 필드 data에 대해 GetData(), SetData() 만으로 접근하도록 함\n");
 
         }
     }

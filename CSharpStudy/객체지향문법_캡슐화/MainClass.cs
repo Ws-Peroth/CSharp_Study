@@ -22,6 +22,10 @@ namespace 객체지향문법_4_2_캡슐화
             #endregion
 
             #region 4.2.3 Property
+            Property property = new Property();
+            property.RunMethod();
+            property.Data = 7;
+            Console.WriteLine("Data { get{ return data; } } : " + property.Data + "\n");
             #endregion
         }
     }
