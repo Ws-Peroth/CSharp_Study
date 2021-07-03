@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\클래스의 구성요소.csproj",
-      "projectName": "클래스의 구성요소",
-      "projectPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\클래스의 구성요소.csproj",
+      "projectUniqueName": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\객체지향문법.csproj",
+      "projectName": "객체지향문법",
+      "projectPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\객체지향문법.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\obj\\",
       "projectStyle": "PackageReference",

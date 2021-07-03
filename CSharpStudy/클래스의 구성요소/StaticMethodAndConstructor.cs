@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 클래스의_구성요소
+namespace 객체지향문법
 {
     class StaticMethodAndConstructor
     {

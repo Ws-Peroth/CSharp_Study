@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy\CSharpStudy.csproj", "{BB16591E-19F8-49D5-887B-3901557EE4B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스의 구성요소", "클래스의 구성요소\클래스의 구성요소.csproj", "{257410A0-4EB1-4074-9F99-312DF208A282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향문법", "클래스의 구성요소\객체지향문법.csproj", "{257410A0-4EB1-4074-9F99-312DF208A282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

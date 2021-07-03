@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using 클래스의_구성요소.C;
+using 객체지향문법.C;
 
-namespace 클래스의_구성요소
+namespace 객체지향문법
 {
 
 
-    static class UseNamespace
+    public class UseNamespace
     {
         public static void CallMethod()
         {

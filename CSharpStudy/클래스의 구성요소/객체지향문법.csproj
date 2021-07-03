@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>클래스의_구성요소</RootNamespace>
+    <RootNamespace>객체지향문법</RootNamespace>
   </PropertyGroup>
 
 </Project>
