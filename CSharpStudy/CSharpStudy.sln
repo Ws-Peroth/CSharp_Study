@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy\CSharpStudy.csproj", "{BB16591E-19F8-49D5-887B-3901557EE4B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향문법", "클래스의 구성요소\객체지향문법.csproj", "{257410A0-4EB1-4074-9F99-312DF208A282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향문법_4_1_클래스", "클래스의 구성요소\객체지향문법_4_1_클래스.csproj", "{257410A0-4EB1-4074-9F99-312DF208A282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향문법_4_2_캡슐화", "객체지향문법_캡슐화\객체지향문법_4_2_캡슐화.csproj", "{979A8046-D95A-4D77-88BF-06DC91284D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{257410A0-4EB1-4074-9F99-312DF208A282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257410A0-4EB1-4074-9F99-312DF208A282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257410A0-4EB1-4074-9F99-312DF208A282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979A8046-D95A-4D77-88BF-06DC91284D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979A8046-D95A-4D77-88BF-06DC91284D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979A8046-D95A-4D77-88BF-06DC91284D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979A8046-D95A-4D77-88BF-06DC91284D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\객체지향문법_4_1_클래스.csproj",
-      "projectName": "객체지향문법_4_1_클래스",
-      "projectPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\객체지향문법_4_1_클래스.csproj",
+      "projectUniqueName": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\객체지향문법_캡슐화\\객체지향문법_4_2_캡슐화.csproj",
+      "projectName": "객체지향문법_4_2_캡슐화",
+      "projectPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\객체지향문법_캡슐화\\객체지향문법_4_2_캡슐화.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\클래스의 구성요소\\obj\\",
+      "outputPath": "C:\\Programming\\Git\\CSharp Study\\CSharp_Study\\CSharpStudy\\객체지향문법_캡슐화\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

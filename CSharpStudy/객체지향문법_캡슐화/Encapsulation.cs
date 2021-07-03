@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 객체지향문법
+namespace 객체지향문법_4_2_캡슐화
 {
     public class Encapsulation
     {
@@ -21,12 +21,12 @@ namespace 객체지향문법
         private double pi = 3.14;
         private double radius = 1;
 
-        public void SetRadius(int radius) => this.radius = radius;        
+        public void SetRadius(int radius) => this.radius = radius;
 
-        private double GetSize(double radius) => radius * radius * pi;        
+        private double GetSize(double radius) => radius * radius * pi;
 
         public void PrintSize() => Console.WriteLine("Size : " + GetSize(10) + "\n");
-        
+
     }
 }
 

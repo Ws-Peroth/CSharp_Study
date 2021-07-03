@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using 객체지향문법.C;
+using 객체지향문법_4_1_클래스.C;
 
-namespace 객체지향문법
+namespace 객체지향문법_4_1_클래스
 {
 
 
