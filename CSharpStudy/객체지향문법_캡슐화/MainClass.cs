@@ -10,18 +10,18 @@ namespace 객체지향문법_4_2_캡슐화
             Encapsulation.RunMethod();
             #endregion
 
-            #region 4.2.1 AccessModifier
+            #region 4.2.1 AccessModifier.cs
             UseAccessModifierClaasses.RunMethod();
             #endregion
 
-            #region 4.2.2 InformationHiding
+            #region 4.2.2 InformationHiding.cs
             InformationHiding informationHiding = new InformationHiding();
             informationHiding.RunMethod();
             informationHiding.SetData(5);
             Console.WriteLine("GetData() : " + informationHiding.GetData() + "\n");
             #endregion
 
-            #region 4.2.3 Property
+            #region 4.2.3 Property.cs
             Property property = new Property();
             property.RunMethod();
             property.Data = 7;
