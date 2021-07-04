@@ -6,7 +6,7 @@ namespace 객체지향문법_4_2_캡슐화
     {
         static void Main(string[] args)
         {
-            #region 4.2_Encapsulation.cs
+            #region 4.2 Encapsulation.cs
             Encapsulation.RunMethod();
             #endregion
 
