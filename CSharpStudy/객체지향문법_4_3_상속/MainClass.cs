@@ -21,6 +21,18 @@ namespace 객체지향문법_4_3_상속
             #region 4.3.2 ObjectClass.cs
             ObjectClass.RunMethod();
             #endregion
+
+            #region 4.3.2.1 ToStringClass.cs
+            ToStringClass.RunMethod();
+            #endregion
+
+            #region 4.3.2.2 GetTypeClass.cs
+            GetTypeClass.RunMethod();
+            #endregion
+
+            #region 4.3.2.3 Equals.cs
+            #endregion
+
         }
     }
 }
