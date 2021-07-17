@@ -30,7 +30,10 @@ namespace 객체지향문법_4_3_상속
             GetTypeClass.RunMethod();
             #endregion
 
-            #region 4.3.2.3 Equals.cs
+            Console.WriteLine("\n\n\n");
+
+            #region 4.3.2.3 Equals_class.cs
+            Equals_class.RunMethod();
             #endregion
 
         }
