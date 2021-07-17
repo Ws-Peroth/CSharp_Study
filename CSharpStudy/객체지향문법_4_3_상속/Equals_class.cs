@@ -44,7 +44,7 @@ namespace 객체지향문법_4_3_상속
             string strCo = new string("Compare");
             string strCo2 = new string("Compare");
 
-            Console.WriteLine("Equals를 재정의한 예시 : string 참조타입");
+            Console.WriteLine("string 참조타입 => Equals 메소드를 재정의 해두어서 Equals메소드를 위와같이 재정이 하지 않아도, 자동으로 값끼리 비교하도록 되어있음");
             Console.WriteLine("string strCo = new string(\"Compare\") : " + strCo);
             Console.WriteLine("string strCo2 = new string(\"Compare\") : " + strCo2);
             Console.WriteLine("strCo.Equals(strCo2) : " + strCo.Equals(strCo2));
@@ -70,7 +70,7 @@ namespace 객체지향문법_4_3_상속
             {
                 if (obj is CompB comp)
                 {
-                    if (this.data == comp.data)
+                    if (this.GetHashCode() == comp.GetHashCode())
                         return true;
                 }
                 return false;
