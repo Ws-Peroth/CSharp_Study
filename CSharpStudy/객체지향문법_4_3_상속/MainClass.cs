@@ -39,6 +39,10 @@ namespace 객체지향문법_4_3_상속
             #region 4.3.2.4 GetHashCode_class.cs
             GetHashCode_class.RunMethod();
             #endregion
+
+            #region 4.3.3 GetHashCode_class.cs
+            Array_class.RunMethod();
+            #endregion
         }
     }
 }
